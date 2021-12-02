@@ -42,8 +42,5 @@ public class HerokuAppStepDefs {
         String checkbox2Text = checkboxesMap.get("checkbox1Text");
         Assert.assertTrue(checkboxes.get(0).getText().contains(checkbox1Text));
         Assert.assertTrue(checkboxes.get(1).getText().contains(checkbox2Text));
-
-
     }
-
 }
