@@ -28,4 +28,5 @@ public class AmazonSearchResultsPage {
         String resultsNum = resultsArray[3].replace(",","");
         return Integer.parseInt(resultsNum);
     }
+
 }
