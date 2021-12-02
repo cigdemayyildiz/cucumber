@@ -23,6 +23,5 @@ public class Hooks {
     @After
     public void cleanup() {
         System.out.println("Cleaning up test data");
-
     }
 }
