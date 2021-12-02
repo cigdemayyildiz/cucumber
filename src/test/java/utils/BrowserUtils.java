@@ -74,5 +74,4 @@ public class BrowserUtils {
             e.printStackTrace();
         }
     }
-
 }
