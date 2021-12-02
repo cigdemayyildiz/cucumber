@@ -45,11 +45,8 @@ public class OpenMRSStepDefs {
     @When("I register a new patient with {string}, {string}, {string}, {int}, {string}, {int}, {string} and {int}")
     public void i_register_a_new_patient_with_and(String name, String lastName, String gender, Integer birthDay,
                                                   String birthMonth, Integer birthYear, String address, Integer phoneNumber){
-
         System.out.println("First Name: "+name);
         System.out.println("Last Name: "+lastName);
         System.out.println("Phone Number: "+phoneNumber);
-
     }
-
 }
