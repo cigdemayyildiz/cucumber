@@ -18,5 +18,4 @@ public class GoogleSearchPage {
     public void googleSearch(String searchText){
         searchField.sendKeys(searchText+ Keys.ENTER);
     }
-
 }
