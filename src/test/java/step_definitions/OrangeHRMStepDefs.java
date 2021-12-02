@@ -11,6 +11,7 @@ import pages.OrangeHRMHomePage;
 import pages.OrangeHRMLoginPage;
 
 public class OrangeHRMStepDefs {
+
     WebDriver driver;
     OrangeHRMLoginPage orangeHRMLoginPage;
     OrangeHRMHomePage orangeHRMHomePage;
