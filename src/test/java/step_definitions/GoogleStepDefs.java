@@ -53,5 +53,4 @@ public class GoogleStepDefs {
         googleSearchResultPage = new GoogleSearchResultPage(driver);
         Assert.assertTrue(googleSearchResultPage.getNoResultsText().contains("did not match any documents"));
     }
-
 }
