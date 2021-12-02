@@ -5,4 +5,3 @@ Feature: Amazon most important features testing
     And I search for iphone 13 case
     Then I should get more than 20 result
     And I validate the search result number
-
