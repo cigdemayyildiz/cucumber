@@ -20,5 +20,6 @@ public class AmazonHomePage {
     public void search(String searchCriteria){
         searchBox.sendKeys(searchCriteria);
         searchButton.click();
+
     }
 }
