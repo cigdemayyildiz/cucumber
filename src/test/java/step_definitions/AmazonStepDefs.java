@@ -36,4 +36,5 @@ public class AmazonStepDefs {
         amazonSearchResultsPage = new AmazonSearchResultsPage(driver);
         Assert.assertEquals(amazonSearchResultsPage.getResultNumber(), 20000);
     }
+
 }
