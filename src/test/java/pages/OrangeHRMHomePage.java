@@ -17,5 +17,4 @@ public class OrangeHRMHomePage {
     public String getDashboardText(){
         return dashboardButton.getText();
     }
-
 }
