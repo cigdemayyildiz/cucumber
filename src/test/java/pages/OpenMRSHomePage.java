@@ -30,5 +30,4 @@ public class OpenMRSHomePage {
         inpatientWardLocation.click();
         signInButton.click();
     }
-
 }
