@@ -17,5 +17,4 @@ public class GoogleSearchResultPage {
    public String getNoResultsText(){
        return noResults.getText();
    }
-
 }
