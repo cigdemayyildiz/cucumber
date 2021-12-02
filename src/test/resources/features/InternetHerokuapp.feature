@@ -21,7 +21,3 @@ Feature: Herokuapp Tests
       | checkbox2Text   | checkbox 2 |
       | checkbox1Status | unchecked  |
       | checkbox2Status | checked    |
-
-
-
-
