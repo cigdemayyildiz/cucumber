@@ -25,5 +25,4 @@ public class OrangeHRMLoginPage {
         this.password.sendKeys(password);
         loginButton.click();
     }
-
 }
